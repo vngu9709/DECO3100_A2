@@ -18,13 +18,13 @@ const plot2Div = document.getElementById('vis2');
 const plot3Div = document.getElementById('vis3');
 
 
-Plotly.d3.csv("https://raw.githubusercontent.com/vngu9709/plotly/main/mortality.csv", function(rows) {
+Plotly.d3.csv("https://raw.githubusercontent.com/vngu9709/DECO3100_A2/main/Poverty%20-%20poverty-and-child-mortality.csv", function(rows) {
 
     var trace0 = {
         mode: "markers",
         name: "United States of America",
-        x: unpack(rows, "year"),
-        y: unpack(rows, 'mortality'),
+        x: unpack(rows, 'Mortality rate, under-5 (per 1,000 live births)'),
+        y: unpack(rows, 'Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)'),
         marker: {
             size: [40, 60, 80, 100]
 
