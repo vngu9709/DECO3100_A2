@@ -1,0 +1,32 @@
+Country,Code,Year,Mortality,GDP,145446-annotations,Population,Class
+Central African Republic,CAF,2016,12.36,589,,4538000,Poor
+Burundi,BDI,2016,7.17,665,,10488000,Poor
+Liberia,LBR,2016,6.74,829,,4587000,Poor
+Democratic Republic of Congo,COD,2016,9.43,836,,78789000,Poor
+Niger,NER,2016,9.13,925,,20789000,Poor
+Malawi,MWI,2016,5.51,1112,,17205000,Poor
+Mozambique,MOZ,2016,7.13,1113,,27830000,Poor
+Madagascar,MDG,2016,4.64,1381,,24894000,Poor
+Togo,TGO,2016,7.57,1400,,7510000,Poor
+Guinea,GIN,2016,8.9,1417,,11738000,Poor
+Guinea-Bissau,GNB,2016,8.81,1436,,1782000,Poor
+Burkina Faso,BFA,2016,8.46,1483,,18646000,Poor
+Zimbabwe,ZWE,2016,5.64,1534,,14030000,Poor
+Mali,MLI,2016,11.06,1594,,17965000,Poor
+Sierra Leone,SLE,2016,11.35,1619,,7329000,Poor
+Ethiopia,ETH,2016,5.84,1635,,103603000,Poor
+Denmark,DNK,2016,0.44,44836,,5711000,Wealthy
+Netherlands,NLD,2016,0.38,45600,,16981000,Wealthy
+Hong Kong,HKG,2016,0.2282,48330,,7244000,Wealthy
+Australia,AUS,2016,0.37,48845,,24263000,Wealthy
+Saudi Arabia,SAU,2016,1.29,51397,,32443000,Wealthy
+United States,USA,2016,0.65,53015,,323016000,Wealthy
+Ireland,IRL,2016,0.36,56597,,4696000,Wealthy
+Luxembourg,LUX,2016,0.24,57006,,579000,Wealthy
+Switzerland,CHE,2016,0.41,59662,,8380000,Wealthy
+Singapore,SGP,2016,0.28,65729,,5654000,Wealthy
+Kuwait,KWT,2016,0.84,71010,,3957000,Wealthy
+United Arab Emirates,ARE,2016,0.77,75876,,9361000,Wealthy
+Norway,NOR,2016,0.26,82814,,5251000,Wealthy
+Qatar,QAT,2016,0.85,156299,,2654000,Wealthy
+Germany,DEU,2016,0.38,44689,,82194000,Wealthy
