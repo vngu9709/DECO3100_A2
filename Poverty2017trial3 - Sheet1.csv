@@ -1,0 +1,232 @@
+Country,Region,Mortality,Poverty,Population
+Algeria,Africa,2.40%,,41.39 million
+Angola,Africa,8.11%,,29.82 million
+Benin,Africa,9.83%,49.60%,11.18 million
+Botswana,Africa,3.76%,,2.21 million
+Burkina Faso,Africa,8.12%,43.70%,19.19 million
+Burundi,Africa,6.12%,71.70%,10.83 million
+Cameroon,Africa,8.40%,23.80%,24.57 million
+Cape Verde,Africa,1.74%,,"537,000.00"
+Central African Republic,Africa,12.15%,,4.60 million
+Chad,Africa,12.32%,,15.02 million
+Comoros,Africa,6.90%,18.10%,"814,000.00"
+Congo,Africa,4.75%,,5.11 million
+Cote d'Ivoire,Africa,8.88%,28.20%,24.44 million
+Democratic Republic of Congo,Africa,9.11%,77.10%,81.40 million
+Djibouti,Africa,6.17%,22.50%,"944,000.00"
+Egypt,Africa,2.21%,1.30%,96.44 million
+Equatorial Guinea,Africa,8.96%,,1.26 million
+Eritrea,Africa,4.31%,,3.41 million
+Eswatini,Africa,5.39%,,1.13 million
+Ethiopia,Africa,5.85%,26.70%,106.40 million
+Gabon,Africa,4.83%,3.40%,2.06 million
+Gambia,Africa,6.36%,10.10%,2.21 million
+Ghana,Africa,4.93%,12.00%,29.12 million
+Guinea,Africa,8.57%,35.30%,12.07 million
+Guinea-Bissau,Africa,8.42%,,1.83 million
+Kenya,Africa,4.56%,36.80%,50.22 million
+Lesotho,Africa,8.59%,,2.09 million
+Liberia,Africa,7.47%,38.60%,4.70 million
+Libya,Africa,1.24%,,6.58 million
+Mali,Africa,10.60%,,18.51 million
+Mauritania,Africa,7.90%,6.00%,4.28 million
+Mauritius,Africa,1.31%,0.50%,1.26 million
+Morocco,Africa,2.33%,1.00%,35.58 million
+Mozambique,Africa,7.24%,62.90%,28.65 million
+Namibia,Africa,4.42%,13.40%,2.40 million
+Niger,Africa,8.45%,44.50%,21.60 million
+Nigeria,Africa,10.02%,,190.87 million
+Rwanda,Africa,3.79%,56.00%,11.98 million
+Sao Tome and Principe,Africa,3.24%,,"207,000.00"
+Senegal,Africa,4.54%,,15.42 million
+Seychelles,Africa,1.42%,1.10%,"96,000.00"
+Sierra Leone,Africa,11.05%,,7.49 million
+Somalia,Africa,12.72%,,14.59 million
+South Africa,Africa,3.71%,18.90%,57.01 million
+South Sudan,Africa,9.64%,,10.91 million
+Sudan,Africa,6.32%,,40.81 million
+Tanzania,Africa,5.40%,,54.66 million
+Togo,Africa,7.29%,49.20%,7.70 million
+Tunisia,Africa,1.30%,,11.43 million
+Uganda,Africa,4.90%,41.60%,41.17 million
+Zambia,Africa,6.00%,57.50%,16.85 million
+Zimbabwe,Africa,5.03%,,14.24 million
+Afghanistan,Asia,6.79%,,36.30 million
+Bahrain,Asia,0.73%,,1.49 million
+Bangladesh,Asia,3.24%,14.80%,159.68 million
+Bhutan,Asia,3.08%,1.50%,"746,000.00"
+Brunei,Asia,1.05%,,"424,000.00"
+Cambodia,Asia,2.92%,,16.01 million
+China,Asia,0.93%,0.70%,1.42 billion
+Hong Kong,Asia,,,7.31 million
+India,Asia,3.94%,,1.34 billion
+Indonesia,Asia,2.54%,5.70%,264.65 million
+Iran,Asia,1.49%,0.20%,80.67 million
+Iraq,Asia,3.04%,2.50%,37.55 million
+Israel,Asia,0.36%,0.50%,8.24 million
+Japan,Asia,0.26%,,127.50 million
+Jordan,Asia,1.70%,,9.79 million
+Kazakhstan,Asia,1.00%,0.00%,18.08 million
+Kuwait,Asia,0.81%,,4.06 million
+Kyrgyzstan,Asia,2.00%,1.40%,6.19 million
+Laos,Asia,6.34%,22.70%,6.95 million
+Lebanon,Asia,0.78%,,6.82 million
+Macao,Asia,,,"623,000.00"
+Malaysia,Asia,0.79%,0.00%,31.11 million
+Maldives,Asia,0.79%,,"496,000.00"
+Mongolia,Asia,1.72%,0.50%,3.11 million
+Myanmar,Asia,4.86%,6.40%,53.38 million
+Nepal,Asia,3.37%,,27.63 million
+North Korea,Asia,1.90%,,25.43 million
+Oman,Asia,1.13%,,4.67 million
+Pakistan,Asia,7.49%,4.00%,207.91 million
+Palestine,Asia,2.09%,1.00%,4.75 million
+Philippines,Asia,2.81%,,105.17 million
+Qatar,Asia,0.76%,,2.73 million
+Saudi Arabia,Asia,0.74%,,33.10 million
+Singapore,Asia,0.28%,,5.71 million
+South Korea,Asia,0.33%,0.20%,51.10 million
+Sri Lanka,Asia,0.88%,0.70%,21.13 million
+Syria,Asia,,,17.10 million
+Taiwan,Asia,,,23.68 million
+Tajikistan,Asia,3.36%,4.80%,8.88 million
+Thailand,Asia,0.95%,0.00%,69.21 million
+Timor,Asia,4.76%,30.30%,1.24 million
+Turkey,Asia,1.16%,0.20%,81.12 million
+Turkmenistan,Asia,4.73%,,5.76 million
+United Arab Emirates,Asia,0.91%,,9.49 million
+Uzbekistan,Asia,2.25%,,31.96 million
+Vietnam,Asia,2.09%,2.00%,94.60 million
+Yemen,Asia,5.54%,18.80%,27.84 million
+Albania,Europe,0.88%,1.10%,2.88 million
+Andorra,Europe,0.33%,,"77,000.00"
+Armenia,Europe,1.26%,1.80%,2.94 million
+Austria,Europe,0.36%,0.70%,8.82 million
+Azerbaijan,Europe,2.30%,,9.85 million
+Belarus,Europe,0.37%,0.00%,9.45 million
+Belgium,Europe,0.38%,0.00%,11.42 million
+Bosnia and Herzegovina,Europe,0.57%,0.20%,3.35 million
+Bulgaria,Europe,0.75%,1.50%,7.10 million
+Channel Islands,Europe,,,"169,000.00"
+Croatia,Europe,0.46%,0.70%,4.18 million
+Cyprus,Europe,0.27%,0.00%,1.18 million
+Czechia,Europe,0.33%,0.00%,10.64 million
+Denmark,Europe,0.43%,0.20%,5.73 million
+Estonia,Europe,0.27%,0.50%,1.32 million
+Faeroe Islands,Europe,,,"48,000.00"
+Finland,Europe,0.23%,0.00%,5.51 million
+France,Europe,0.42%,0.00%,64.84 million
+Georgia,Europe,1.08%,4.20%,4.01 million
+Germany,Europe,0.37%,0.00%,82.66 million
+Gibraltar,Europe,,,"34,000.00"
+Greece,Europe,0.53%,1.50%,10.57 million
+Hungary,Europe,0.45%,0.50%,9.73 million
+Iceland,Europe,0.21%,0.00%,"334,000.00"
+Ireland,Europe,0.35%,0.20%,4.75 million
+Isle of Man,Europe,,,"84,000.00"
+Italy,Europe,0.34%,2.00%,60.67 million
+Kosovo,Europe,,0.60%,
+Latvia,Europe,0.42%,0.70%,1.95 million
+Liechtenstein,Europe,,,"38,000.00"
+Lithuania,Europe,0.43%,0.70%,2.85 million
+Luxembourg,Europe,0.26%,0.20%,"592,000.00"
+Malta,Europe,0.64%,0.00%,"438,000.00"
+Mayotte,Europe,,,"253,000.00"
+Moldova,Europe,1.55%,,4.06 million
+Monaco,Europe,0.33%,,"38,000.00"
+Montenegro,Europe,0.35%,0.00%,"628,000.00"
+Netherlands,Europe,0.39%,0.00%,17.02 million
+North Macedonia,Europe,1.37%,5.00%,2.08 million
+Norway,Europe,0.26%,0.20%,5.30 million
+Poland,Europe,0.47%,,37.95 million
+Portugal,Europe,0.37%,0.50%,10.29 million
+Romania,Europe,0.78%,5.70%,19.65 million
+Russia,Europe,0.76%,0.00%,145.53 million
+San Marino,Europe,0.22%,,"34,000.00"
+Serbia,Europe,0.57%,,8.83 million
+Slovakia,Europe,0.56%,0.70%,5.45 million
+Slovenia,Europe,0.21%,0.00%,2.08 million
+Spain,Europe,0.31%,1.00%,46.65 million
+Sweden,Europe,0.28%,0.50%,9.90 million
+Switzerland,Europe,0.42%,0.00%,8.46 million
+Ukraine,Europe,0.88%,0.10%,44.49 million
+United Kingdom,Europe,0.43%,0.20%,66.73 million
+Vatican,Europe,,,"1,000.00"
+Anguilla,North America,,,"15,000.00"
+Antigua and Barbuda,North America,0.74%,,"95,000.00"
+Aruba,North America,,,"105,000.00"
+Bahamas,North America,0.72%,,"382,000.00"
+Barbados,North America,1.24%,,"286,000.00"
+Belize,North America,1.42%,,"376,000.00"
+Bermuda,North America,,,"63,000.00"
+Bonaire Sint Eustatius and Saba,North America,,,"25,000.00"
+British Virgin Islands,North America,,,"30,000.00"
+Canada,North America,0.51%,0.50%,36.73 million
+Cayman Islands,North America,,,"63,000.00"
+Costa Rica,North America,0.90%,1.30%,4.95 million
+Cuba,North America,0.54%,,11.34 million
+Curacao,North America,,,"162,000.00"
+Dominica,North America,3.40%,,"71,000.00"
+Dominican Republic,North America,2.99%,1.60%,10.51 million
+El Salvador,North America,1.45%,2.20%,6.39 million
+Greenland,North America,,,"56,000.00"
+Grenada,North America,1.67%,,"111,000.00"
+Guadeloupe,North America,,,"400,000.00"
+Guatemala,North America,2.76%,8.70%,16.91 million
+Haiti,North America,7.17%,23.50%,10.98 million
+Honduras,North America,1.82%,16.00%,9.43 million
+Jamaica,North America,1.52%,,2.92 million
+Martinique,North America,,,"376,000.00"
+Mexico,North America,1.34%,2.50%,124.78 million
+Montserrat,North America,,,"5,000.00"
+Nicaragua,North America,1.72%,3.20%,6.38 million
+Panama,North America,1.61%,2.20%,4.11 million
+Puerto Rico,North America,,,3.16 million
+Saint Barthlemy,North America,,,"10,000.00"
+Saint Kitts and Nevis,North America,1.37%,,"52,000.00"
+Saint Lucia,North America,1.66%,,"181,000.00"
+Saint Martin (French part),North America,,,"37,000.00"
+Saint Pierre and Miquelon,North America,,,"6,000.00"
+Saint Vincent and the Grenadines,North America,1.62%,,"110,000.00"
+Sint Maarten (Dutch part),North America,,,"41,000.00"
+Trinidad and Tobago,North America,2.61%,,1.38 million
+Turks and Caicos Islands,North America,,,"37,000.00"
+United States,North America,0.66%,1.20%,325.08 million
+United States Virgin Islands,North America,,,"105,000.00"
+American Samoa,Oceania,,,"56,000.00"
+Australia,Oceania,0.35%,,24.59 million
+Cook Islands,Oceania,,,"18,000.00"
+Fiji,Oceania,2.53%,1.40%,"877,000.00"
+French Polynesia,Oceania,,,"276,000.00"
+Guam,Oceania,,,"164,000.00"
+Kiribati,Oceania,5.46%,,"114,000.00"
+Marshall Islands,Oceania,3.40%,,"58,000.00"
+Micronesia (country),Oceania,3.22%,16.00%,"111,000.00"
+Nauru,Oceania,3.30%,,"11,000.00"
+New Caledonia,Oceania,,,"277,000.00"
+New Zealand,Oceania,0.53%,,4.70 million
+Niue,Oceania,,,"2,000.00"
+Northern Mariana Islands,Oceania,,,"57,000.00"
+Palau,Oceania,1.53%,,"18,000.00"
+Samoa,Oceania,1.65%,,"195,000.00"
+Solomon Islands,Oceania,2.06%,25.10%,"636,000.00"
+Tokelau,Oceania,,,"1,000.00"
+Tonga,Oceania,1.60%,,"102,000.00"
+Tuvalu,Oceania,2.49%,,"11,000.00"
+Vanuatu,Oceania,2.69%,,"285,000.00"
+Wallis and Futuna,Oceania,,,"12,000.00"
+Papua New Guinea,Ocenia,5.34%,,8.44 million
+Argentina,South America,1.04%,0.60%,43.94 million
+Bolivia,South America,3.49%,7.10%,11.19 million
+Brazil,South America,1.48%,3.40%,207.83 million
+Chile,South America,0.74%,1.30%,18.47 million
+Colombia,South America,1.47%,4.50%,48.91 million
+Ecuador,South America,1.45%,3.60%,16.79 million
+Falkland Islands,South America,,,"3,000.00"
+French Guiana,South America,,,"275,000.00"
+Guyana,South America,3.13%,,"775,000.00"
+Paraguay,South America,2.10%,1.70%,6.87 million
+Peru,South America,1.50%,3.50%,31.44 million
+Suriname,South America,1.96%,,"571,000.00"
+Uruguay,South America,0.82%,0.10%,3.44 million
+Venezuela,South America,3.09%,,29.40 million
